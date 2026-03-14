@@ -68,7 +68,7 @@ SillyTavern has extensibility support.
 * [Stable Diffusion/FLUX/DALL-E image generation](/extensions/Stable-Diffusion.md)
 * [Text-to-speech for AI response messages](/extensions/TTS.md)
 * [Web Search capabilities for adding additional real world context to your prompts](/extensions/WebSearch.md)
-* Many more are available to download from the "Download Extensions & Assets" menu.
+* Many more are available to download from "Download Extensions & Assets" in the extensions menu menu.
 
 ## How can I get in touch with the developers directly?
 
